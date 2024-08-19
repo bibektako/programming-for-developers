@@ -155,6 +155,7 @@ public class ImageConverterApp extends JFrame {
         }
     }
 
+
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             ImageConverterApp app = new ImageConverterApp();
